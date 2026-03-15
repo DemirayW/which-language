@@ -235,6 +235,11 @@ This repository began with the published Claude Code / MiniGit experiment:
 
 Treat that write-up as **historical benchmark context**, not as the entire identity of this repository. The codebase is now evolving toward a broader benchmark platform.
 
+## Contributors
+
+- [mame](https://github.com/mame)
+- [berkevnl](https://github.com/berkevnl)
+
 ## Where to go next
 
 - Want a guided first run? → [QUICK_START.md](./QUICK_START.md)
