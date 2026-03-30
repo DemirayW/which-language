@@ -178,3 +178,15 @@ This entire movement was ignited by a single, powerful question: *Which Programm
 We proudly stand alongside other incredible benchmarking initiatives:
 - [AutoCodeBench](https://autocodebench.github.io)
 - [LiveCodeBench](https://livecodebench.github.io)
+## Added Feature Suggestion
+
+--- delete ---
+Usage: python miniquiz.py delete 1
+Deletes a question by id.
+
+Output:
+"Deleted question #1"
+
+If not found:
+"Question not found"
+Added delete command suggestion to README
